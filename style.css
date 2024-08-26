@@ -2,19 +2,19 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
-    color: #000000;
+    background-color: white;
+    color: black;
 }
 
 header {
-    background-color: #002395;
-    color: #ffffff;
+    background-color: blue;
+    color: white;
     padding: 20px;
     text-align: center;
 }
 
 nav {
-    background-color: #ffffff;
+    background-color: white;
     text-align: center;
     padding: 10px 0;
 }
@@ -33,7 +33,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #002395;
+    color: blue;
     font-weight: bold;
 }
 
@@ -51,7 +51,7 @@ section {
 
 section h2 {
     color: #ED2939;
-    border-bottom: 2px solid #002395;
+    border-bottom: 2px solid blue;
     padding-bottom: 10px;
     margin-bottom: 20px;
 }
@@ -62,7 +62,7 @@ section article h3 {
 
 section img, section iframe {
     margin-top: 10px;
-    border: 2px solid #002395;
+    border: 2px solid blue;
 }
 
 #noticias-principais, #ranking-paises, #noticias-recentes, #resultados {
